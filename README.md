@@ -10,7 +10,7 @@ Una interfaz limpia y moderna de tarjetas de blog diseñada con HTML y CSS puro.
 
 ## 🔗 Demo
 
-👉 [Ver Demo en Vivo](https://tuusuario.github.io/blog-cards-ui/)  
+👉 [Ver Demo en Vivo](https://josecondori-ai.github.io/Blog-Cards-UI/)  
 
 ## ✨ Características
 
